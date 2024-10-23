@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575184228853",
+    "project_id": "fynalica",
+    "storage_bucket": "fynalica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575184228853:android:f431e9d9c5f934c3be50bc",
+        "android_client_info": {
+          "package_name": "com.example.financialanalysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwoKgHv_w77q8K_SUPJSZubyqIrvC45Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
